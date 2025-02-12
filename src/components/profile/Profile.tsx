@@ -7,7 +7,7 @@ const Profile = () => {
             <div className="user-picture">
                 <img src="/profilePic.JPG" alt="" />
             </div>
-            <p className="py-4 space-y-2">
+            <div className="py-4 space-y-2">
 
                 <div className="font-bold text-3xl">
                     Cole Whaley
@@ -37,7 +37,7 @@ const Profile = () => {
                         </div>
                     </div>
                 </div>
-            </p>
+            </div>
 
             <hr className="opacity-80 bg-accent" />
 

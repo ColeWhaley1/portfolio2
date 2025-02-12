@@ -16,6 +16,9 @@ const nav = () => {
                 <li className="li">
                     <button className="button"><p>Projects</p></button>
                 </li>
+                <li className="li">
+                    <button className="button"><p>Awards</p></button>
+                </li>
             </ul>
         </div>
     )
