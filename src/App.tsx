@@ -1,4 +1,4 @@
-import Grid from "./backgrounds/grid"
+import Grid from "./backgrounds/Grid"
 import MyInfo from "./components/myinfo/MyInfo"
 import Navigation from "./components/nav/Navigation"
 
@@ -14,9 +14,10 @@ function App() {
           </div>
         </div>
 
-        <div>
+        <div className="pl-12">
           <MyInfo />
         </div>
+
       </div>
       
     </Grid>
