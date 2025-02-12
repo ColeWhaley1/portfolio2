@@ -1,4 +1,4 @@
-import Header from "./components/header/Header"
+import Header from "./components/myinfo/MyInfo"
 import Navigation from "./components/nav/Navigation"
 
 function App() {

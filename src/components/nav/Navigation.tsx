@@ -5,13 +5,16 @@ const nav = () => {
         <div>
             <ul className="ul">
                 <li className="li">
-                    <button className="button"><p className="p">Experience</p></button>
+                    <button className="button"><p>My Info</p></button>
                 </li>
                 <li className="li">
-                    <button className="button"><p className="p">Education</p></button>
+                    <button className="button"><p>Experience</p></button>
                 </li>
                 <li className="li">
-                    <button className="button"><p className="p">Projects</p></button>
+                    <button className="button"><p>Education</p></button>
+                </li>
+                <li className="li">
+                    <button className="button"><p>Projects</p></button>
                 </li>
             </ul>
         </div>
